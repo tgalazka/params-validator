@@ -1,0 +1,11 @@
+{
+  "name": "params-validator",
+  "version": "0.0.0",
+  "dependencies": {
+    "underscore": {
+      "version": "1.8.2",
+      "from": "underscore@*",
+      "resolved": "https://registry.npmjs.org/underscore/-/underscore-1.8.2.tgz"
+    }
+  }
+}

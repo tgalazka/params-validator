@@ -1,0 +1,21 @@
+{
+  "name": "params-validator",
+  "version": "0.1.0",
+  "author": "tgalazka <tjgalazka@gmail.com>",
+  "description": "Centralizes common parameter check functions.",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tgalazka/params-validator.git"
+  },
+  "main": "params-validator.js",
+  "dependencies": {
+    "underscore": "^1.8.2"
+  },
+  "devDependencies": {
+    "expect.js": "^0.3.1",
+    "mocha": "^2.2.1"
+  },
+  "engines": {
+    "node": ">=0.10"
+  }
+}
